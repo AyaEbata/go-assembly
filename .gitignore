@@ -1,3 +1,6 @@
+add/add
+main/main
+print/print
 *.o
 *.out
 *.exe
